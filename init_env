@@ -1,0 +1,6 @@
+export PORT_APP="8080"
+export HOST_DB_APP="localhost"
+export PORT_DB_APP="5432"
+export USER_DB_APP="postgres"
+export PASS_DB_APP="123"
+export SCHEMA_DB_APP="public"
